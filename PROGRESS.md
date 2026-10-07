@@ -4,7 +4,7 @@
 
 | # | Days | Project | Roles | Status | Live | Repo |
 |---|---|---|---|---|---|---|
-| 1 | 1–2 | FlowPlan: project scheduler with critical path | Dev · PM | ✅ v1.0 shipped | [flow-plan-five.vercel.app](https://flow-plan-five.vercel.app/) | [FlowPlan](https://github.com/ahmed-malikk/FlowPlan) |
+| 1 | 1–2 | FlowPlan: project scheduler with critical path | Dev · PM | ✅ v1.1 shipped | [flow-plan-five.vercel.app](https://flow-plan-five.vercel.app/) | [FlowPlan](https://github.com/ahmed-malikk/FlowPlan) |
 | 2 | 3–5 | QueueCare: clinic queue & appointments | Dev · BA · PM | ⏳ Next | – | – |
 | 3 | 6–7 | Local Business BA Case Study | BA | Not started | – | – |
 | 4 | 8–10 | CommitteeKeeper: savings committee tracker | Dev · BA · PM | Not started | – | – |
@@ -18,3 +18,4 @@
 ## Log
 
 - **2026-10-07 · FlowPlan v1.0 shipped.** Live on Vercel; [release notes](https://github.com/ahmed-malikk/FlowPlan/releases/tag/v1.0). 44/44 unit tests, 42/42 system tests (Edge, Chrome, 375 px phone) on the local build and the live site. Testing found and fixed 2 phone layout bugs. 13 issues, 12 closed. **Still open:** gist check, usability test with 3 people, my own 3-week plan in FlowPlan ([#10](https://github.com/ahmed-malikk/FlowPlan/issues/10)). **Next:** QueueCare.
+- **2026-10-07 · FlowPlan v1.1.** Added mark-as-done and task notes; long dependency lists now scroll (#14–#16). 51/51 unit and 51/51 system tests, locally and on the live site. Loaded my one-person sprint plan (21 days, every project critical) for issue #10.
