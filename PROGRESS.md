@@ -5,7 +5,7 @@
 | # | Days | Project | Roles | Status | Live | Repo |
 |---|---|---|---|---|---|---|
 | 1 | 1–2 | FlowPlan: project scheduler with critical path | Dev · PM | ✅ Done (v1.1) | [flow-plan-five.vercel.app](https://flow-plan-five.vercel.app/) | [FlowPlan](https://github.com/ahmed-malikk/FlowPlan) |
-| 2 | 3–5 | QueueCare: clinic queue & appointments | Dev · BA · PM | ⏳ Next (after gist check) | – | – |
+| 2 | 3–5 | QueueCare: clinic queue & appointments | Dev · BA · PM | 🔨 In progress (Day 0) | – | [QueueCare](https://github.com/ahmed-malikk/QueueCare) |
 | 3 | 6–7 | Local Business BA Case Study | BA | Not started | – | – |
 | 4 | 8–10 | CommitteeKeeper: savings committee tracker | Dev · BA · PM | Not started | – | – |
 | 5 | 11–12 | PulseMetrics: product analytics | Dev · PM | Not started | – | – |
@@ -22,3 +22,4 @@
 - **2026-10-07 · FlowPlan done for the 3-week plan.** All 16 issues closed. Real use: my own sprint planned in FlowPlan finishes on day 21 with all 11 items critical (12 days on dependencies alone; the gap is me being one person). Still open, not blocking: usability test with 3 people, print layout polish, a GitHub Project board. **Next:** gist check, then QueueCare.
 - **2026-10-07 · FlowPlan gist check done.** Walkthrough of `scheduler.ts` explained back (6.5/10), then the 3 checkpoint questions: critical path and why a PM cares (6/10), loop detection (7.5/10), slack and delays (9/10). To improve: slack is an output, tasks are nodes and dependencies are edges, critical tasks are the ones to protect. Practise the answers out loud once more without notes.
 - **2026-10-07 · FlowPlan lessons learned written:** [docs/lessons/flowplan.md](docs/lessons/flowplan.md). Technologies, structure, testing, GitHub, deployment, teamwork, PM insights, and 6 changes for QueueCare.
+- **2026-10-07 · QueueCare Day 0.** Repo created; plan in README; stakeholder interview guides written (receptionist, patients); labels ready. Next: interviews, BRD, PRD (Thu 8 Oct).
